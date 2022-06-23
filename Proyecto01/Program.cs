@@ -11,7 +11,7 @@ namespace Proyecto01
         static void Main(string[] args)
         {
 
-
+            CapaNegocios.ClaseFunciones.menu();
         }
     }
 }
